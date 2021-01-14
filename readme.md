@@ -1,3 +1,3 @@
-# Git and GitHun course
+# Git and GitHub course
 
 Crash course for Git by Kate
